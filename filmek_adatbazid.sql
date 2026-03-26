@@ -32,3 +32,5 @@ CREATE TABLE szineszek (
 
 -- 6. feladat: Filmek tábla ellenőrzése
 DESCRIBE szineszek;
+
+
